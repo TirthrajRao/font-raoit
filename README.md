@@ -1,7 +1,7 @@
 # Font Css
 
 
-This is a utility css for fonts, developed by _Rao Infotech_. This include following websafe fonts to be accessed by their class names.
+This is a utility css for fonts, developed by _Rao Infotech_. This includes list of websafe fonts that can be accessed by their class names.
 
 
 -------
