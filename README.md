@@ -3,7 +3,20 @@
 
 This is a utility css for fonts, developed by _Rao Infotech_. This include following websafe fonts to be accessed by their class names.
 
+
+-------
+# Installation
+#### bower :
+> bower install font-raoit
+
+#### html : 
+```html
+<link rel='stylesheet' type='text/css' href='bower_components/font-raoit/css/fonts.css' />
+```
+
+
 ----
+# Usage : 
 ## *Fonts*
 
 * _Arial_
@@ -45,6 +58,9 @@ eg : `<p class='text-indent-10'>This will have text-indent 10px</p>`
 * _Uppercase_
 * _Lowercase_
 * _Capitalize_
+
+
+
 
 
 
